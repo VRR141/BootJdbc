@@ -1,0 +1,4 @@
+databaseChangeLog:
+  - include:
+      file: db/changelog/scripts/schema.sql
+encoding: "UTF-8"
